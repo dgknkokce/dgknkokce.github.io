@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My Personal Blog</title>
-    <link>http://dgknkokce.github.io/categories/</link>
-    <description>Recent content in Categories on My Personal Blog</description>
+    <title>Categories on dogukanKOKCE</title>
+    <link>https://dgknkokce.github.io/categories/</link>
+    <description>Recent content in Categories on dogukanKOKCE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://dgknkokce.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://dgknkokce.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

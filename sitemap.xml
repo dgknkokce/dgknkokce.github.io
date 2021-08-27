@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dgknkokce.github.io/categories/</loc>
+    <loc>https://dgknkokce.github.io/authors/</loc>
   </url><url>
-    <loc>http://dgknkokce.github.io/</loc>
+    <loc>https://dgknkokce.github.io/categories/</loc>
   </url><url>
-    <loc>http://dgknkokce.github.io/tags/</loc>
+    <loc>https://dgknkokce.github.io/</loc>
+  </url><url>
+    <loc>https://dgknkokce.github.io/series/</loc>
+  </url><url>
+    <loc>https://dgknkokce.github.io/tags/</loc>
   </url>
 </urlset>
